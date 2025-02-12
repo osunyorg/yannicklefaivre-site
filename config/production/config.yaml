@@ -2,6 +2,11 @@
 
 baseURL: https://yannicklefaivre.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 02904ef5-a0d1-404f-9451-aea03230f2f0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
